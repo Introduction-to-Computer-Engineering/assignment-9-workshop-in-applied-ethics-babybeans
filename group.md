@@ -8,9 +8,8 @@
    - The recent example that comes to mind would be the industrial revolution in the United States of America. The Industrial Revolution did benefit the group, but the conditions inside the factories and the living conditions of the workers in the cities were terrible. 
 
 #### 3. (BONUS) Ethical codes are vulnerable to the tragedy of the commons. An ethical code relies on the cooperation of the individuals. Discuss how rogue behavior (aka defection) with respect to the ethical code of a group gives rise to the prisoner's dilemma and the eventual demise of the ethical code. What incentives can you build in the ethical code that would counteract the attractiveness of defection and, as a result, would mitigate the danger to the code?  
-   ##### i) Some incentives for following the code of ethics are the following:
-   a) A Code abiding employee could recieve company wide recognition.
-   b) A Code abiding employee could recieve a small monetary gift.
+   
+   - A way to incentivize employees, is to hold random checks on random employees to make sure our code of ethics is being upheld. If after the check it is found that they are being upheld, provide a monetary award, because most of the time a person might be unethical is due to greed and greed being a product of money. Also if employees pass inspections, they will be more eligable to raises and promotions. We would also use technilogical mutation to change the frequency of the of the access to certain levels of security to prevent unauthorized access to data. Some incentives for following the code of ethics could be company wide recognition or a small monetary gift.
     
    ##### ii) Preventing rogues in our company because this type of behavior can derail the entire company and cause the downfall of the whole group. 
    a) We will have multiple layers of access and authority in our company. 
