@@ -103,7 +103,7 @@ Removing this point would make it to where actions could be done in stealth. Thi
 Removing this point would allow the person or company to be bought out. We would lose control of the mission and any ethics we hope to preserve. This would also make the company lose public trust.     
  
   ##### ii) Below, discuss how, in retrospect, you should have stated the points of the Code, to make it robust to disruption. Note: Beware of the paradox of self-amendment, which, in short, "...arises when a rule is used as the authority for its own amendment. It is sharper when the rule of change is supreme, sharper still when it is changed into a form that is inconsistent with its original form, and sharpest of all when the change purports to be irrevocable."
-   We could give an exact definition for what is expected from the employees, adding detail and specifics, as well as a general definition of each point in our code.
+   - We could give an exact definition for what is expected from the employees, adding detail and specifics, as well as a general definition of each point in our code.
   
 
 
