@@ -21,10 +21,10 @@
 
 #### 1) In a small group up to 5 people, imagine you are a small tech startup. 
    ##### i) Members:
-   Leean Woo
-   Vincent Feil
-   Jessica Gardner
-   Joaquin Trujillo
+   Leean Woo,
+   Vincent Feil,
+   Jessica Gardner,
+   Joaquin Trujillo,
    Bruce Liu
    
    ##### ii) Choose a President: 
