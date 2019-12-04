@@ -1,49 +1,26 @@
 # Workshop in Applied Ethics
 ## Answer the Questions
 
-1) If all people were ethical in their interactions, there would be no need for the judiciary system since law enforcement and law itself is a direct product from trying to control unethical behavior.
-2) 
--- leean
+1. If all people were ethical in all their interactions, which centerpiece of modern society would be obviated?
+   - The justice system would be unnecessary if there were no unethical behavoirs.
 
-## Class Activities
+2. Ethics creates a dichotomy between the comfort of the individual and the longevity, or mere existance, of the group. Give an example of an extreme case from recent history that favored the group to the detriment of the individual. How would you embed the principle of balance of the interests of the individual and the group into the ethical code itself? Be specific.
+   - The recent example that comes to mind would be the industrial revolution in the United States of America. The Industrial Revolution did benefit the group, but the conditions inside the factories and the living conditions of the workers in the cities were terrible. 
 
-1) In a small group up to 5 people, imagine you are a small tech startup. Then:
-i)
-   Leean Woo
-   Vincent Feil
-   Jessica Gardner
-   Joaquin Trujillo
-   Bruce Liu
-   
-   ii) President: Vincent Feil
-   
-   iii) Computer that can run any Operating System/Software 
-   
-2) Describe the ways your innovation, if realized, would affect society.
-
-  i) Pros: Economic freedom for the individual, ease of development, 
-  cons: hinders ability to adapt to different softwares/UI, job market would be affected due to companies losing proprietary ownership of specific products, short term: Would force custoemrs to discard old laptops adding on to the harm of our environment.
-  
-  ii) a. Immediately upon launch: Would cause a spike in laptops being thrown away and cause excess waste and impact on the enviornment 
-      b. After enough time for it to be absorbed into everyday life: Would lose the ability to adapt to different softwares or User Interfaces. 
-     
-
-
-  ii) Some incentives for following the code of ethics are the following:
+3. (BONUS) Ethical codes are vulnerable to the tragedy of the commons. 
+An ethical code relies on the cooperation of the individuals. Discuss how rogue behavior 
+(aka defection) with respect to the ethical code of a group gives rise to the prisoner's 
+dilemma and the eventual demise of the ethical code. What incentives can you build in the 
+ethical code that would counteract the attractiveness of defection and, as a result, would mitigate the danger to the code?  
+   ii) Some incentives for following the code of ethics are the following:
     a) A Code abiding employee could recieve company wide recognition.
     b) A Code abiding employee could recieve a small monetary gift.
     
-    Preventing rogues in our company:
+   Preventing rogues in our company:
     a) We will have multiple layers of access and authority in our company. 
     b) We will have technological mutation, which includes using randomized systems to ensure that no person stays in a position for too long.
-    
-    Rogue behavior: This type of behavior can derail the entire company and cause the downfall of the whole group.
-  
-  
-  Incentives:
-  company wide recognitiion. small monetary gift. If code is not followed, it can result in termination of employment. 
-  
-  vince-- 
+   Rogue behavior: This type of behavior can derail the entire company and cause the downfall of the whole group. 
+ 
   ## Class Activities
 
 1) In a small group up to 5 people, imagine you are a small tech startup. Then:
@@ -65,6 +42,8 @@ i)
   
   ii) a. Immediately upon launch: Would cause a spike in laptops being thrown away and cause excess waste and impact on the enviornment 
       b. After enough time for it to be absorbed into everyday life: Would lose the ability to adapt to different softwares or User Interfaces. 
+      
+      
      
 3) Code of conduct
 
