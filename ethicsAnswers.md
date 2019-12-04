@@ -85,8 +85,8 @@
   4. No employee will accept or convey a bribe.  **Choice for deletion exploit**
   5. Our product/software will be accessible to everyone who seeks it. 
   6. Employees will treat each other will respect, fairness, and equally. 
-  7. Customers will be trated with respect, fairness, equally, and with dilligence. 
-  8. Honor customer confidientiality
+  7. Customers will be treated with respect, fairness, equality, and diligence. 
+  8. Honor customer confidentiality
   9. Produce highest quality possible
   
   ##### i)Below, discuss how and why the Code has been weakened.
