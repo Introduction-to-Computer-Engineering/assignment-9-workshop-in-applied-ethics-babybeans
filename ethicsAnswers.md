@@ -9,12 +9,8 @@
 
 #### 3. (BONUS) Ethical codes are vulnerable to the tragedy of the commons. An ethical code relies on the cooperation of the individuals. Discuss how rogue behavior (aka defection) with respect to the ethical code of a group gives rise to the prisoner's dilemma and the eventual demise of the ethical code. What incentives can you build in the ethical code that would counteract the attractiveness of defection and, as a result, would mitigate the danger to the code?  
    
-   - A way to incentivize employees, is to hold random checks on random employees to make sure our code of ethics is being upheld. If after the check it is found that they are being upheld, provide a monetary award, because most of the time a person might be unethical is due to greed and greed being a product of money. Also if employees pass inspections, they will be more eligable to raises and promotions. We would also use technilogical mutation to change the frequency of the of the access to certain levels of security to prevent unauthorized access to data. Some incentives for following the code of ethics could be company wide recognition or a small monetary gift.
-    
-   ##### ii) Preventing rogues in our company because this type of behavior can derail the entire company and cause the downfall of the whole group. 
-   a) We will have multiple layers of access and authority in our company. 
-   b) We will have technological mutation, which includes using randomized systems to ensure that no person stays in a position for too long.
-   
+   -    Preventing rogues in our company is a priority because this type of behavior can derail the entire company and cause the downfall of the whole group. A way to incentivize employees to avoid rogue behavior is to hold random checks on random employees to make sure our code of ethics is being upheld. If after the check it is found that they are being upheld, provide a monetary award, because most of the time a person might be unethical is due to greed and greed being a product of money. Also if employees pass inspections, they will be more eligable to raises and promotions. We would also use technilogical mutation to change the frequency of the of the access to certain levels of security to prevent unauthorized access to data. Some incentives for following the code of ethics could be company wide recognition or a small monetary gift.
+ 
  
   ## Class Activities
 
