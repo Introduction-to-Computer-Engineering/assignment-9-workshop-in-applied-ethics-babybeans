@@ -35,16 +35,23 @@
   ##### i) Below, list at least 3 adverse effects (including but not limited to misuse) of the innovation and anticipatory actions and mechanisms you can embed.
   
   Adverse effects: 
+  
   a) It would hinder the ability of an individual to adapt to different softwares/UI. As time went on, the need to be able to adapt would be lost. With that need we would lose the diversity of technology. This loss of diversity could slow down the progression of new research.
+  
   b) It would affect the job market due to companies losing proprietary ownership of specific products. Companies such as Microsoft, Apple, and Andriod would lose business and therefore they would have to cut back on their staff. 
+  
   c) It would cause customers to discard old laptops adding on to the harm of our environment. When people realized that our laptops could solve many problems in the world of tech, they would no longer need their old laptops. What is done with the unwanted hardware could harm the environment.
   
   Helpful effects: 
+  
   a) It would provide economic freedom for the individual to buy whatever Operating System they wanted.
+  
   b) It would add ease in the evelopement of new products. 
   
   ##### ii) Below, give an explicit definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime: (a) immediately upon launch; (b) after enough time for it to be absorbed into everyday life.  
+   
    a. Immediately upon launch: It would cause a spike in laptops being thrown away and cause excess waste and impact on the enviornment. 
+   
    b. After enough time for it to be absorbed into everyday life: We would lose the ability to adapt to different softwares or User Interfaces. The environmental impact could also be felt in a longterm way if the short term situation was not dealt with effectively.
      
 #### 3)  Your small "band of merry psychopaths" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course?
@@ -106,7 +113,7 @@
   9. Produce highest quality possible.
   
   ##### i)Below, discuss how and why the Code has been weakened.
-  -Interestingly, every point that was eliminated for the purpose of sabotaging the code has the potential to cause the  company to lose public trust. Every point removed could also result in legal action being taken against our company. They also open up the company for legal problems. In fact, legal infractions are violations of the national code of ethics. When a company does not follow its own code of staying within the law, it violates the national code of ethics.
+   Interestingly, every point that was eliminated for the purpose of sabotaging the code has the potential to cause the  company to lose public trust. Every point removed could also result in legal action being taken against our company. They also open up the company for legal problems. In fact, legal infractions are violations of the national code of ethics. When a company does not follow its own code of staying within the law, it violates the national code of ethics.
   
    a) *Follow copyright laws, our work will be honest and original.* 
 Removing this point would make production faster but lose public trust. Not only that, but without this point of the code it allows us to steal any material we want, and this idea would eventually become a problem even between those who work for the company. It also opens opportunity for litigation. 
