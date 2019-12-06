@@ -42,12 +42,6 @@
   
   c) It would cause customers to discard old laptops adding on to the harm of our environment. When people realized that our laptops could solve many problems in the world of tech, they would no longer need their old laptops. What is done with the unwanted hardware could harm the environment.
   
-  Helpful effects: 
-  
-  a) It would provide economic freedom for the individual to buy whatever Operating System they wanted.
-  
-  b) It would add ease in the evelopement of new products. 
-  
   ##### ii) Below, give an explicit definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime: (a) immediately upon launch; (b) after enough time for it to be absorbed into everyday life.  
    
    a. Immediately upon launch: It would cause a spike in laptops being thrown away and cause excess waste and impact on the enviornment. 
