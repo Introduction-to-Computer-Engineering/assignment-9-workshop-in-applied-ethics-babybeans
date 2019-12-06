@@ -5,11 +5,13 @@
    - The justice system would be unnecessary if there were no unethical behavoirs.
 
 #### 2. Ethics creates a dichotomy between the comfort of the individual and the longevity, or mere existance, of the group. Give an example of an extreme case from recent history that favored the group to the detriment of the individual. How would you embed the principle of balance of the interests of the individual and the group into the ethical code itself? Be specific.
-   - The recent example that comes to mind would be the industrial revolution in the United States of America. The Industrial Revolution did benefit the group, but the conditions inside the factories and the living conditions of the workers in the cities were terrible. 
+   - The recent example that comes to mind would be the industrial revolution in the United States of America. The Industrial Revolution did benefit the group, but the conditions inside the factories and the living conditions of the workers in the cities were terrible. People lost limbs, and in some tragic cases, their lives. However, the Revolution itself was huge  for the economy.
+   - To embed the principle of balance of the individual interest and the group interest into the code, it would be important to write specific points on the code that are geared to protect both. For example, imagine if our company was a factory that manufactures using potentially dangerous methods that are unavoidable. In our code we could include a point about personal behavior around that process to prevent the individual from getting hurt. We would also make a point about group safety, requiring the managers to choose the safest methods possible. This would effect both the individual and the group in a positive  way. 
 
 #### 3. (BONUS) Ethical codes are vulnerable to the tragedy of the commons. An ethical code relies on the cooperation of the individuals. Discuss how rogue behavior (aka defection) with respect to the ethical code of a group gives rise to the prisoner's dilemma and the eventual demise of the ethical code. What incentives can you build in the ethical code that would counteract the attractiveness of defection and, as a result, would mitigate the danger to the code?  
    
-   -    Preventing rogues in our company is a priority because this type of behavior can derail the entire company and cause the downfall of the whole group. A way to incentivize employees to avoid rogue behavior is to hold random checks on random employees to make sure our code of ethics is being upheld. If after the check it is found that they are being upheld, provide a monetary award, because most of the time a person might be unethical is due to greed and greed being a product of money. Also if employees pass inspections, they will be more eligable to raises and promotions. We would also use technilogical mutation to change the frequency of the of the access to certain levels of security to prevent unauthorized access to data. Some incentives for following the code of ethics could be company wide recognition or a small monetary gift.
+   -  Preventing rogues in our company is a priority because this type of behavior can derail the entire company and cause the downfall of the whole group. A rogue that isnt afraid to harm their fellow employees is a toxic person. The people around the rogue know that he or she is not afraid to throw them under the bus. Therefore, if the opportunity arises, they will not hesitate as much to throw the rogue under the bus in the interest of self preservation. 
+   - A way to incentivize employees to avoid rogue behavior is to hold random checks on random employees to make sure our code of ethics is being upheld. If after the check it is found that they are being upheld, provide a monetary award, because most of the time a person might be unethical is due to greed and greed being a product of money. Also if employees pass inspections, they will be more eligable to raises and promotions. We would also use technological mutation to change the frequency of the of the access to certain levels of security to prevent unauthorized access to data. Some incentives for following the code of ethics could be company wide recognition or a small monetary gift.
  
  
   ## Class Activities
@@ -23,82 +25,99 @@
    Bruce Liu
    
    ##### ii) Choose a President: 
-   Vincent Feil
+   We chose Vincent Feil.
    
    ##### iii) Choose a tech product:
-   Computer that can run any Operating System/Software 
+   Our product is a laptop that can run any Operating System/Software.
    
 #### 2) Describe the ways your innovation, if realized, would affect society.
 
   ##### i) Below, list at least 3 adverse effects (including but not limited to misuse) of the innovation and anticipatory actions and mechanisms you can embed.
   
   Adverse effects: 
-  a) It hinders ability to adapt to different softwares/UI.
+  a) It would hinder the ability of an individual to adapt to different softwares/UI.
   b) It would affect the job market due to companies losing proprietary ownership of specific products.
-  c) It would force custoemrs to discard old laptops adding on to the harm of our environment.
+  c) It would force customers to discard old laptops adding on to the harm of our environment.
   
   Helpful effects: 
   a) It would provide economic freedom for the individual.
   b)It would add ease in the evelopement of new products. 
   
   ##### ii) Below, give an explicit definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime: (a) immediately upon launch; (b) after enough time for it to be absorbed into everyday life.  
-   a. Immediately upon launch: It would cause a spike in laptops being thrown away and cause excess waste and impact on the enviornment 
-   b. After enough time for it to be absorbed into everyday life: We would lose the ability to adapt to different softwares or User Interfaces. 
+   a. Immediately upon launch: It would cause a spike in laptops being thrown away and cause excess waste and impact on the enviornment. 
+   b. After enough time for it to be absorbed into everyday life: We would lose the ability to adapt to different softwares or User Interfaces. The environmental impact could also be felt in a longterm way if the short term situation was not dealt with effectively.
      
 #### 3)  Your small "band of merry psychopaths" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course?
-   - By making use of a Code of Conduct
+   - By making use of a Code of Conduct. 
   ##### i) Below, define a Code of Ethics (aka Code of Conduct) for your organization that will safeguard your original intentions and values while not stiflying innovation as your startup grows and matures. Your code should have at most 9 points. 
   
   1. Follow copyright laws, our work will be honest and original. 
      No products we design or build will violate any laws or regulations that apply.
+     
   2. Be transparent, let the user know exactly what data/information we are recieving and taking.
-     All information gathered by the company will be secure and used only for the purposes stated. We will never sell or otherwise
-     compromise customer or supplier infomation.
+     All information gathered by the company will be secure and used only for the purposes stated. We will never sell or otherwise compromise customer or supplier infomation.
+     
   3. All employees and officers of the company will avoid conflics of interest.
-     No employee of the company will engage in any activity that is in conflict with the goals of the company. Further more no employee with 
-     hold employment of any kind with a competing company or a company we do business with. 
+     No employee of the company will engage in any activity that is in conflict with the goals of the company. Further more no employee with hold employment of any kind with a competing company or a company we do business with. 
+     
   4. No employee will accept or convey a bribery. 
-     No employee will accept or give lavish gifts to or from anyone we do business with. Lavish is defined as anything with a monitary
-     value over ($100.00) one hundred dollars. 
+     No employee will accept or give lavish gifts to or from anyone we do business with. Lavish is defined as anything with a monitary value over ($100.00) one hundred dollars. 
+     
   5. Our product/software will be accessible to everyone who seeks it.
      Our product is intended to help people every where. To this end we will not discriminate in any way against anyone. 
+     
   6. Our employees are the heart of our business and will treat each other with respect, fairness, and equality.
      No employee will create a hostile uncomfortable environment for any other employee. 
      Passionate, efficient and skilled people make a significant contribution to our success. We expect and
      promote an entrepreneurial mindset, innovative thinking, people taking initiative, reliability and a sense of
      responsibility.
+     
   7. Customers will be treated with respect, fairness, equally, and with diligence.
      Without customers we have no business, therfore each customer will recieve the same service and care we expect ourselves.
      Our customer service will have the same high quality standards as our products.
+     
   8. Honor customer confidientiality.
      We will never sell or otherwise compromise customer or suppier infomation.
+     
   9. Produce highest quality possible.
-     The pursuit of quality is core to our approach in everything we do. 
-     Our products are designed and built to the highest technical standards and offer excellent functionality and ease of
-     use.  
+     The pursuit of quality is core to our approach in everything we do. Our products are designed and built to the highest technical standards and offer excellent functionality and ease of use.  
      
      
 #### 3) (BONUS) Ethical codes are vulnerable to hostile takeover of the adopting organization. Pick one person from your group and let them remove 3 points from your Code, at their discretion, to be the most damaging overall. 
+   We chose Bruce Liu to purposefully sabotage our code. Here is our code with markers after the points he chose to remove.
+   
   1. Follow copyright laws, our work will be honest and original  **Choice for deletion exploit**
+  
   2. Be transparent, let the user know exactly what data/information we are recieving and taking  **Choice for deletion exploit**
+  
   3. All employees and officers of the company will avoid conflic of interest. 
+  
   4. No employee will accept or convey a bribe.  **Choice for deletion exploit**
+  
   5. Our product/software will be accessible to everyone who seeks it. 
+  
   6. Employees will treat each other will respect, fairness, and equally. 
+  
   7. Customers will be treated with respect, fairness, equality, and diligence. 
-  8. Honor customer confidentiality
-  9. Produce highest quality possible
+  
+  8. Honor customer confidentiality.
+  
+  9. Produce highest quality possible.
   
   ##### i)Below, discuss how and why the Code has been weakened.
+  -Interestingly, every point that was eliminated for the purpose of sabotaging the code has the potential to cause the  company to lose public trust. Every point removed could also result in legal action being taken against our company.
+  
    a) *Follow copyright laws, our work will be honest and original.* 
-Removing this point would make production faster but lose public trust, at least in the United States of America. It also opens opportunity for litigation.
+Removing this point would make production faster but lose public trust. Not only that, but without this point of the code it allows us to steal any material we want, and this idea would eventually become a problem even between those who work for the company. It also opens opportunity for litigation. 
+
    b) *Be transparent, let the user know exactly what data/information we are receiving and taking.*
-Removing this point would make it to where actions could be done in stealth. This allows for data mining and selling information, which is very valuble.  A person that is also breaking this rule would have the ablity to uncover it. Without  this point, it opens up opportunity for litigation and also loses public trust.
+Removing this point allows for data mining and selling information, which is a very valuble and private resource. Without this point, it opens up opportunity for litigation and also loses public trust. And again, it would eventually become a problem between employees of the company.
+
    c) *No employee will accept or convey a bribe.* 
-Removing this point would allow the person or company to be bought out. We would lose control of the mission and any ethics we hope to preserve. This would also make the company lose public trust.     
+Removing this point would allow the person or company to be bought out. We would lose control of the mission and any ethics we hope to preserve. In fact, with a big enough bribe, some would be willing to destroy our entire company. This would also make the company lose public trust. Without this point, our company could be subject to legal action taken against us.
  
-  ##### ii) Below, discuss how, in retrospect, you should have stated the points of the Code, to make it robust to disruption. Note: Beware of the paradox of self-amendment, which, in short, "...arises when a rule is used as the authority for its own amendment. It is sharper when the rule of change is supreme, sharper still when it is changed into a form that is inconsistent with its original form, and sharpest of all when the change purports to be irrevocable."
-   - We could have given an exact definition for what is expected from the employees, adding detail and specifics, as well as a general definition of each point in our code.
+  ##### ii) Below, discuss how, in retrospect, you should have stated the points of the Code, to make it robust to disruption. 
+   - We could have given an exact definition for what is expected from the employees, adding detail and specifics, as well as a general definition of each point in our code. The problem with being too specific however, is that there will be loopholes in the code. The problem with being too general is that there would not be a solid definition to defer to if one suspects the code has been broken. One possible solution for this would be to include both a general definition and specific definitions in one point, therefore covering both fronts. It would also be wise for anyone writing code to consult a professional in the practice of law. The professional would be able to help direct in places either too general or too specific.
   
 
 
